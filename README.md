@@ -1,2 +1,2 @@
 # CRACKING-AND-HASHING
-Cracking a HASH
+Testing my hash before main repo
